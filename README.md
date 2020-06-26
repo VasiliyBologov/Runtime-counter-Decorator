@@ -7,7 +7,7 @@ A decorator that counts the execution time of a function
 ## Usage
     @RunTimeCount
     def YouFunction():
-    #to Do Something
+        #to Do Something
     YouFunction()
     
     
