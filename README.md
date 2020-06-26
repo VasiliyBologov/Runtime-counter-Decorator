@@ -1,8 +1,7 @@
 # Runtime-counter-Decorator
 A decorator that counts the execution time of a function
 
-[![Runtime-counter-Decorator license](https://img.shields.io/github/license/VasiliyBologov/Runtime-counter-Decorator)](https://github.com/VasiliyBologov/Runtime-counter-Decorator/blob/master/LICENSE)
-
+[![Runtime-counter-Decorator license](https://img.shields.io/github/license/VasiliyBologov/Runtime-counter-Decorator)](https://github.com/VasiliyBologov/Runtime-counter-Decorator/blob/master/LICENSE)  ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fvaso2904)
 
 ## Usage
     @RunTimeCount
